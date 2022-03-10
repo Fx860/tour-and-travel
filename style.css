@@ -30,30 +30,52 @@
     
   }
   
-  
-  
-  
+
   header {
     position: absolute;
     width: 1415px;
-    height: 550px;
-    background-color: rgb(0, 238, 79);
+    height: 654px;
+   
     margin-top:100px;
     margin-left: 872px;
   }
   
-  
+  .gubbe-head {
+    margin-left: 840px;
+    height: 654px;
+    width: 687px;
+    top: 167px;
+   
+  }
   
   
   main {
     position: absolute;
     width: 1242px;
     height: 550px;
-    background-color:lightblue;
     margin-top: 800px;
     margin-left: 872px;
   }
   
+  .H-gubbe-mitten{
+    position: absolute;
+    width: 481px;
+    height: 100px;
+    top: 89.56px;
+    left: 761px;
+    font-size: 36px;
+
+}
+
+  .gubbe-mitten-text {
+    position: absolute;
+    width: 450px;
+    height: 120px;
+    top: 209.56px;
+    left: 761px;
+    font-size: 17px;
+    line-height: 30px;
+  }
   /* section*/
   
   .img1 {
@@ -61,23 +83,85 @@
     height: 231px;
     overflow: hidden;
     border-radius: 8px;
-    margin-left: 20.2px;
+    margin-left: 10.2px;
   }
   
   .img2 {
     width: 264px;
     height: 231px;
+    margin-left: 10.2px;
     overflow: hidden;
     border-radius: 8px;
   }
   
   section {
     position: absolute;
-    width: 1136.05px;
+    width: 1170.05px;
     height: 684px;
-    background-color: lightcoral;
+   
     margin-top: 1400px;
     margin-left: 875px;
+  }
+
+  h2 {
+    position: absolute;
+    width: 221.15px;
+    top: 275.56px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 30px;
+    margin-left: 15px;
+  }
+
+  .bt1 {
+    position: absolute;
+    width: 221.15px;
+    top: 350.56px; 
+    margin-left: 15px;
+  }
+
+  
+  
+
+  .hb4 {
+    position: absolute;
+    width: 221.15px;
+    left: 850px;
+    top: 285.56px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+  }
+
+
+  .pbt4 {
+    position: absolute;
+    width: 221.15px;
+    left: 870px;
+    top: 355.56px;
+  }
+
+
+  .r1 {
+    position: absolute;
+    width: 221.15px;
+    color: #FB8F1D;
+    top: 430.56px;
+    font-size: 15px;
+    margin-left: 15px;
+  }
+
+  .r4 {
+    position: absolute;
+    width: 221.15px;
+    left: 870px;
+    top: 460.56px;
+    font-size: 15px;
+    color: #FB8F1D;
   }
   
   /* Button*/
@@ -89,7 +173,7 @@
     text-decoration: none;
     position: absolute;
     width: 100px;
-    height: 40px;
+    height: 30px;
     left: 360px;
     top: -10px;
     border-radius: 10px;
@@ -110,7 +194,7 @@
     text-decoration: none;
     position: absolute;
     width: 100px;
-    height: 40px;
+    height: 30px;
     left: 465px;
     top: -10px;
     border-radius: 10px;
