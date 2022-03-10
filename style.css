@@ -1,0 +1,216 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  body {
+    position: relative;
+    width: 1600px;
+    height: 1419px;
+    max-height: 1419px;
+  }
+  
+  /* navbar*/
+  
+  nav {
+    position: absolute;
+    width: 663px;
+    height: 60px;
+    left: 1800px;
+    top: 30px;
+    
+    
+  
+  }
+  a {
+    margin-left: 35px;
+    font-size: 16px;
+    text-decoration: none;
+    
+  }
+  
+  
+  
+  
+  header {
+    position: absolute;
+    width: 1415px;
+    height: 550px;
+    background-color: rgb(0, 238, 79);
+    margin-top:100px;
+    margin-left: 872px;
+  }
+  
+  
+  
+  
+  main {
+    position: absolute;
+    width: 1242px;
+    height: 550px;
+    background-color:lightblue;
+    margin-top: 800px;
+    margin-left: 872px;
+  }
+  
+  /* section*/
+  
+  .img1 {
+    width: 264px;
+    height: 231px;
+    overflow: hidden;
+    border-radius: 8px;
+    margin-left: 20.2px;
+  }
+  
+  .img2 {
+    width: 264px;
+    height: 231px;
+    overflow: hidden;
+    border-radius: 8px;
+  }
+  
+  section {
+    position: absolute;
+    width: 1136.05px;
+    height: 684px;
+    background-color: lightcoral;
+    margin-top: 1400px;
+    margin-left: 875px;
+  }
+  
+  /* Button*/
+  
+  .btn-login {
+    display: block;
+    background-color: #fb8f1d;
+   color: #f9f9fb;
+    text-decoration: none;
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 360px;
+    top: -10px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+  }
+  
+
+  .btn-Register {
+    display: block;
+    background-color: #fb8f1d;
+    color: #f9f9fb;
+    text-decoration: none;
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 465px;
+    top: -10px;
+    border-radius: 10px;
+    text-align: center;
+    
+    cursor: pointer;
+    font-size: 16px;
+    margin: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    cursor: pointer;
+  }
+  /* footer*/
+  
+  p {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  p.f2 {
+    color: #848484;
+    position: relative;
+    left: 5.59%;
+    right: 41.57%;
+    top: 30.18%;
+    bottom: 45.65%;
+  }
+  
+  footer {
+    position: absolute;
+    width: 1641px;
+    height: 350px;
+    left: 600px;
+    margin-top: 2200px;
+    background-color: #f9f9fb;
+  }
+  
+  .column {
+    float: right;
+    width: 25%;
+    height: 280px;
+  }
+  
+  footer .logofooter {
+    background-image: url("img/footer.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 11.65%;
+    right: 65.67%;
+    top: 16.18%;
+    bottom: 40.69%;
+  }
+  
+  footer .twitter {
+    background-image: url("img/twitter.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 39.27%;
+    right: 59.21%;
+    top: 85%;
+    bottom: 6.85%;
+  }
+  
+  footer .facebook {
+    background-image: url("img/facebook.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 42.93%;
+    right: 56.46%;
+    top: 84.59%;
+    bottom: 6.85%;
+  }
+  
+  footer .instagram {
+    background-image: url("img/instagram.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 45.67%;
+    right: 52.99%;
+    top: 84.8%;
+    bottom: 6.64%;
+  }
+  
+  footer .linkedin {
+    background-image: url("img/linkind.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 49.15%;
+    right: 49.45%;
+    top: 84.59%;
+    bottom: 6.85%;
+  }
+  
+  footer .youtube {
+    background-image: url("img/youtube.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 52.68%;
+    right: 45.61%;
+    top: 85%;
+    bottom: 6.85%;
+  }
